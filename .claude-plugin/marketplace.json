@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "eumemic",
+  "owner": {
+    "name": "eumemic"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by eumemic"
+  },
+  "plugins": [
+    {
+      "name": "ralph",
+      "source": {
+        "source": "github",
+        "repo": "eumemic/ralph"
+      },
+      "description": "Autonomous AI-assisted development methodology that keeps specs and code in sync through intelligent iteration loops",
+      "version": "1.0.10",
+      "license": "MIT",
+      "keywords": ["specs", "autonomous", "planning", "implementation", "sync"],
+      "category": "development"
+    }
+  ]
+}
