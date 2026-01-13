@@ -19,6 +19,18 @@
       "license": "MIT",
       "keywords": ["specs", "autonomous", "planning", "implementation", "sync"],
       "category": "development"
+    },
+    {
+      "name": "website-cloner",
+      "source": {
+        "source": "github",
+        "repo": "eumemic/website-cloner"
+      },
+      "description": "Clone websites by reverse-engineering them into specs using AI-powered browser exploration",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["clone", "reverse-engineer", "specs", "browser", "discovery"],
+      "category": "development"
     }
   ]
 }

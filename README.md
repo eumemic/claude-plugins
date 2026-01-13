@@ -14,6 +14,7 @@ Then install plugins:
 
 ```
 /plugin install ralph@eumemic
+/plugin install website-cloner@eumemic
 ```
 
 ## Available Plugins
@@ -21,6 +22,7 @@ Then install plugins:
 | Plugin | Description |
 |--------|-------------|
 | [ralph](https://github.com/eumemic/ralph) | Autonomous AI-assisted development methodology that keeps specs and code in sync through intelligent iteration loops |
+| [website-cloner](https://github.com/eumemic/website-cloner) | Clone websites by reverse-engineering them into specs using AI-powered browser exploration |
 
 ## License
 
