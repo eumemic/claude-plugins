@@ -31,6 +31,18 @@
       "license": "MIT",
       "keywords": ["clone", "reverse-engineer", "specs", "browser", "discovery"],
       "category": "development"
+    },
+    {
+      "name": "claude-usage",
+      "source": {
+        "source": "github",
+        "repo": "eumemic/claude-usage"
+      },
+      "description": "Check Claude Max usage across multiple accounts with fast API-based checks and natural language reporting",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["usage", "rate-limits", "accounts", "monitoring"],
+      "category": "utilities"
     }
   ]
 }
