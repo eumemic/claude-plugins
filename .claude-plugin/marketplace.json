@@ -43,6 +43,18 @@
       "license": "MIT",
       "keywords": ["usage", "rate-limits", "accounts", "monitoring"],
       "category": "utilities"
+    },
+    {
+      "name": "dev-loop",
+      "source": {
+        "source": "github",
+        "repo": "eumemic/dev-loop"
+      },
+      "description": "End-to-end development loop: idea to reviewed PR with automated code review iterations",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["development", "workflow", "code-review", "pull-request", "automation"],
+      "category": "development"
     }
   ]
 }
