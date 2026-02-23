@@ -55,6 +55,18 @@
       "license": "MIT",
       "keywords": ["development", "workflow", "code-review", "pull-request", "automation"],
       "category": "development"
+    },
+    {
+      "name": "dev-skills",
+      "source": {
+        "source": "github",
+        "repo": "eumemic/dev-skills"
+      },
+      "description": "General-purpose development skills: retrospectives, git workflow, investigation, code quality, and testing",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["skills", "workflow", "git", "testing", "debugging", "code-quality"],
+      "category": "development"
     }
   ]
 }
