@@ -39,7 +39,7 @@
         "repo": "eumemic/claude-usage"
       },
       "description": "Check Claude Max usage across multiple accounts with fast API-based checks and natural language reporting",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "license": "MIT",
       "keywords": ["usage", "rate-limits", "accounts", "monitoring"],
       "category": "utilities"
