@@ -62,8 +62,8 @@
         "source": "github",
         "repo": "eumemic/dev-skills"
       },
-      "description": "General-purpose development skills: an autonomous loop driver (/loop) + iteration skills (kaizen, bughunt, shovel-ready, kaikaku), ship pipeline, retrospectives, git workflow, investigation, and testing",
-      "version": "0.2.0",
+      "description": "General-purpose development skills: an autonomous loop driver (/loop) + find-and-file iteration skills (kaizen, bughunt, kaikaku) that groom and file issues, a build consumer (shovel-ready) with its ship pipeline, retrospectives, git workflow, investigation, and testing",
+      "version": "0.4.0",
       "license": "MIT",
       "keywords": ["skills", "workflow", "git", "testing", "debugging", "code-quality"],
       "category": "development"
